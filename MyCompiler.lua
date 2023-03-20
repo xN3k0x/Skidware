@@ -12,7 +12,7 @@
         "-": decrease byte in pointing cell by 1
         "#": output the byte in character
         "(": start the loop 
-        ")": checking if pointing cell is not 0 will go to the start of the loop
+        ")": checking if pointing cell is not 0 will jump to the start of the loop
     *in this compiler can't make nested loop cause i'm too lazyy 😎*
         
 ]]
