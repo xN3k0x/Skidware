@@ -1,25 +1,18 @@
 --[[
     INSPIRED BY BRAINFUCK
-
     cells:
         x: min 1 max 64
         y: min 1 max 64
-
     commands:
         ">": increase cell pointer in "x"
         ">>": increase cell pointer in "y"
-
         "<": decrease cell pointer in "x"
         "<<": decrease cell pointer in "y"
-
         "+": increase byte in pointing cell by 1
         "-": decrease byte in pointing cell by 1
-
         "#": output the byte in character
-
         "(": start the loop 
         ")": checking if pointing cell is not 0 will go to the start of the loop
-
     *in this compiler can't make nested loop cause i'm too lazyy 😎*
         
 ]]
@@ -150,7 +143,6 @@ local compiler = function(source)
         elseif st[index] == "#" then
             local cell = table.concat({cell_pointer["x"],"|",cell_pointer["y"]})
             if cell_datas[cell] == nil then cell_datas[cell] = 0 end
-            print(cell_datas[cell])
             output = output..string.char(cell_datas[cell])
         elseif st[index] == "(" then
             local commands = {}
@@ -188,4 +180,4 @@ end
 print(compiler([==[
 ++++++++++(>+++++++<-)>++#>>++++++++++(>++++++++++>++++++++++ < <-)>+#>++++++++##>>+++++++++++(>++++++++++<-)>+#>>+++++(>++++++<-)>++#
 >>++++++++(>++++++++++<-)>+++++++#>>++++++++++(>++++++++++>++++++++++>++++++++++>++++++++++< < < <-)>+++++++++++#>++++++++++++++#>++++++++#>#> >>+++++(>++++++<-)>+++#
-]==])) -- "Hello World!"
+]==]))
