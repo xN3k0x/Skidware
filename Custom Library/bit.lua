@@ -1,3 +1,13 @@
+--[[
+Built-in function that use:
+    tonumber
+    tostring
+    pcall
+    pairs
+
+That's why it so fcking hard to detect 😎
+]]
+
 local bit = {}
 local math = {}
 local custom = {}
