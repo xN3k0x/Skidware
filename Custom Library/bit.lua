@@ -4,6 +4,7 @@ Built-in function that this lib use:
     tostring
     pcall
     pairs
+    string.sub
 
 That's why it so fcking hard to detect 😎
 ]]
