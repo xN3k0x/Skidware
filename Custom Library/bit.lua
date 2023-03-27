@@ -1,5 +1,5 @@
 --[[
-Built-in function that use:
+Built-in function that this lib use:
     tonumber
     tostring
     pcall
