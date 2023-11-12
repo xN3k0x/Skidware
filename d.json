@@ -1,0 +1,3967 @@
+{
+    "e": false,
+    "member": {
+      "username": "p8q1pvtgpbmhf1ut",
+      "confirm": 1,
+      "start": "2023-11-12 18:59:12",
+      "is_pay": 1,
+      "id": 558821,
+      "active": 1,
+      "datetime": "2023-11-12 18:59:12",
+      "country": "TH",
+      "remaining_time": {
+        "days": 999,
+        "minutes": 0,
+        "hours": 0,
+        "seconds": 0
+      },
+      "member_timestamp": 1699747562000,
+      "end": "2026-08-07 18:59:12",
+      "email": "e.zra.m.eu.ra@gmail.com"
+    },
+    "ssh": {
+      "Proxy USA 1": {
+        "cmd": "146.190.146.235 -P 22 -C -D 4444 -l bullvpn -pw Persec2022",
+        "ip_address": "146.190.146.235",
+        "is_default": true,
+        "proxy_port": "8245",
+        "domain": "prox-us1.bullfreedom.xyz",
+        "server_country": "US"
+      },
+      "Proxy USA 4": {
+        "cmd": "154.47.17.182 -P 22 -C -D 4444 -l bullvpn -pw bullbull**",
+        "ip_address": "154.47.17.182",
+        "is_default": false,
+        "proxy_port": "8216",
+        "domain": "prox-us4.bullfreedom.xyz",
+        "server_country": "US"
+      },
+      "Proxy Japan 1": {
+        "cmd": "64.176.45.83 -P 22 -C -D 4444 -l bullvpn -pw Persec2022",
+        "ip_address": "64.176.45.83",
+        "is_default": false,
+        "proxy_port": "6642",
+        "domain": "prox-jp1.bullfreedom.xyz",
+        "server_country": "JP"
+      },
+      "Proxy Germany 1": {
+        "cmd": "65.109.167.41 -P 22 -C -D 4444 -l bullvpn -pw Persec2022",
+        "ip_address": "65.109.167.41",
+        "is_default": false,
+        "proxy_port": "10945",
+        "domain": "prox-de1.bullfreedom.xyz",
+        "server_country": "DE"
+      },
+      "Proxy Japan 2": {
+        "cmd": "64.176.47.199 -P 22 -C -D 4444 -l bullvpn -pw Persec2022",
+        "ip_address": "64.176.47.199",
+        "is_default": false,
+        "proxy_port": "9454",
+        "domain": "prox-jp2.bullfreedom.xyz",
+        "server_country": "JP"
+      },
+      "Proxy Hong Kong 1": {
+        "cmd": "103.68.61.178 -P 22 -C -D 4444 -l bullvpn -pw bullbull**",
+        "ip_address": "103.68.61.178",
+        "is_default": false,
+        "proxy_port": "9896",
+        "domain": "prox-hk1.bullfreedom.xyz",
+        "server_country": "HK"
+      },
+      "Proxy USA 3": {
+        "cmd": "38.75.136.5 -P 22 -C -D 4444 -l bullvpn -pw bullbull**",
+        "ip_address": "38.75.136.5",
+        "is_default": false,
+        "proxy_port": "11425",
+        "domain": "prox-us3.bullfreedom.xyz",
+        "server_country": "US"
+      },
+      "Proxy Thailand 3": {
+        "cmd": "122.155.168.162 -P 22 -C -D 4444 -l bullvpn -pw bullbull**",
+        "ip_address": "122.155.168.162",
+        "is_default": false,
+        "proxy_port": "8081",
+        "domain": "proxy.bullvpn.com",
+        "server_country": "TH"
+      },
+      "Proxy USA 2": {
+        "cmd": "5.78.81.133 -P 22 -C -D 4444 -l bullvpn -pw bullbull**",
+        "ip_address": "5.78.81.133",
+        "is_default": false,
+        "proxy_port": "9545",
+        "domain": "prox-us2.bullfreedom.xyz",
+        "server_country": "US"
+      },
+      "Proxy Thailand 1": {
+        "cmd": "122.155.168.67 -P 22 -C -D 4444 -l bullvpn -pw bullbull**",
+        "ip_address": "122.155.168.67",
+        "is_default": false,
+        "proxy_port": "9925",
+        "domain": "prox-th1.bullfreedom.xyz",
+        "server_country": "TH"
+      },
+      "Proxy Singapore 1": {
+        "cmd": "159.65.141.67 -P 22 -C -D 4444 -l bullvpn -pw bullbull**",
+        "ip_address": "159.65.141.67",
+        "is_default": false,
+        "proxy_port": "11254",
+        "domain": "prox-sg1.bullfreedom.xyz",
+        "server_country": "SG"
+      },
+      "Proxy Thailand 2": {
+        "cmd": "103.212.181.144 -P 22 -C -D 4444 -l bullvpn -pw bullbull**",
+        "ip_address": "103.212.181.144",
+        "is_default": false,
+        "proxy_port": "8236",
+        "domain": "prox-th2.bullfreedom.xyz",
+        "server_country": "TH"
+      }
+    },
+    "news": [
+      {
+        "id": 17,
+        "link_th": "https://www.facebook.com/bullvpn/posts/3531771583607691",
+        "path_img": null,
+        "link_en": "https://www.facebook.com/bullvpn/posts/3531771583607691",
+        "title_en": "Earn easy money by joining BullVPN Affiliate Program",
+        "description_th": "หาเงินง่าย ๆ เพียงเเค่แชร์ แปะ ลิงก์ จาก BullVPN Affiliate Program สูงสุดถึง 20%",
+        "start": "2023-07-05 00:00:00",
+        "created": "2021-01-16 15:48:48",
+        "end": "2023-12-31 23:59:00",
+        "title_th": "หาเงินง่าย ๆ เพียงเเค่ เข้าร่วม BullVPN Affiliate Program",
+        "updated": "2023-10-02 10:04:11",
+        "description_en": "Join us and start earning money today."
+      },
+      {
+        "id": 16,
+        "link_th": "https://www.bullvpn.com/private-vpn",
+        "path_img": null,
+        "link_en": "https://www.bullvpn.com/private-vpn",
+        "title_en": "Increase your privacy with Private VPN and Proxy",
+        "description_th": "VPN ที่ออกแบบส่วนตัวเฉพาะคุณ",
+        "start": "2023-06-30 00:00:00",
+        "created": "2021-01-16 15:46:16",
+        "end": "2023-12-31 23:59:00",
+        "title_th": "เพิ่มความเป็นส่วนตัวด้วย Private VPN และ Proxy",
+        "updated": "2023-10-02 10:03:56",
+        "description_en": "VPN designed specifically your privacy"
+      }
+    ],
+    "config": "client\r\ndev tun\r\nnobind\r\ncomp-lzo\r\nreneg-sec 0\r\nauth-user-pass\r\nscript-security 3\r\ncipher AES-256-CBC\r\nauth-retry interact\r\nmute-replay-warnings\r\nresolv-retry infinite\r\nremote-cert-tls server\r\n#register-dns\r\ntls-timeout 15\r\nhand-window 15\r\ntun-mtu 1500\r\ntun-mtu-extra 32\r\n#mssfix 1450\r\nping-restart 60\r\n\r\n<ca>\r\n-----BEGIN CERTIFICATE-----\r\nMIIDKDCCAhCgAwIBAgIJAJCPmRqQ3Z4YMA0GCSqGSIb3DQEBCwUAMBIxEDAOBgNV\r\nBAMTB2J1bGx2cG4wHhcNMTQwNjI2MTkyNDUyWhcNMjQwNjIzMTkyNDUyWjASMRAw\r\nDgYDVQQDEwdidWxsdnBuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA\r\n4HwNGo+cTDyFiCtHLbIvWkLirK2E5L5td7sRd1Lhz0Are4Dkmd5/mOZdCejG+sHU\r\nKyh8dc23+AcK3Imc7DoKxb8llZ186JL3rmG32Tqs+JtG226gQ5a/im3HHuDPCLkM\r\n2C7CGCU6BRQInOMEG2SlHWVzLva6zicJkren31sO30Tbha/7jQI0GVq/avfFM6sg\r\nLttjbZXkHQ2MiOzY/7N4iEThYcA9HmeJ3cgxPCkrDbiVjN1Zz0N6C9684BxSkLeI\r\nTVdEtahWf3Uo70TmS7Gy5GpDpG6ZYr8ExSIpcjHsXFSnxfcCxJlRSsLTJWXlN05N\r\nRIrsHGxTlDlaqIk2z1WAXQIDAQABo4GAMH4wHQYDVR0OBBYEFKoYLJIqTNdyz5yw\r\nM6EGYUVLm5rHMEIGA1UdIwQ7MDmAFKoYLJIqTNdyz5ywM6EGYUVLm5rHoRakFDAS\r\nMRAwDgYDVQQDEwdidWxsdnBuggkAkI+ZGpDdnhgwDAYDVR0TBAUwAwEB/zALBgNV\r\nHQ8EBAMCAQYwDQYJKoZIhvcNAQELBQADggEBAMO0Fa0M8kk//LclgOz/tr/J2C58\r\nOq/ocyWMVe2zoljAKSGYA/TSMK2jISO8H77wXJ1IKBXDugPbWGt3ZkPyBagFzdNY\r\nJ8Zq03iRjExg22/XAbMkyVKBay/MYMej/VP4UYpPd1ZdWuVs9j3Jhi5rJuiYWj5B\r\nH1/TCbdXhmc+eSpgHpGFuByOHnFBhHVFTrpXCZCySwBk9NqWLqVtpYbgFHaJZtQC\r\npSdJaNWSeeM96+1mcAQbUwgqRnz2IddLs9zo7wOUON4c/4wtdCWquzFf8qqoTemm\r\nEbcprTdiNozw5PV3Fa6r2L/oTYnwE2T5LNzU8JuuzrlIz3U1vNRrJiiMHws=\r\n-----END CERTIFICATE-----\r\n</ca>",
+    "server": {
+      "Thailand 35 (Streaming)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th35-bull.bullfreedom.xyz",
+        "name": "Thailand 35 (Streaming)",
+        "is_l2tp": false,
+        "ip": "116.204.183.148",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "RO1 for China": {
+        "is_open_vpn": false,
+        "user_type": "pay",
+        "open_vpn_ports": [],
+        "ikev2_domain": "ro1-cn.xn--v3csa3bs8i.com",
+        "name": "RO1 for China",
+        "is_l2tp": false,
+        "ip": "188.241.118.77",
+        "is_ikev2": true,
+        "country": "China",
+        "abbr": "CN"
+      },
+      "Kenya 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "ke1-bull.bullfreedom.xyz",
+        "name": "Kenya 1",
+        "is_l2tp": false,
+        "ip": "62.12.114.68",
+        "is_ikev2": true,
+        "country": "Kenya",
+        "abbr": "KE"
+      },
+      "Portugal 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "pt1-bull.bullfreedom.xyz",
+        "name": "Portugal 1",
+        "is_l2tp": false,
+        "ip": "5.182.39.121",
+        "is_ikev2": true,
+        "country": "Portugal",
+        "abbr": "PT"
+      },
+      "Hong Kong L2TP 1": {
+        "is_open_vpn": false,
+        "user_type": "pay",
+        "open_vpn_ports": [],
+        "ikev2_domain": null,
+        "name": "Hong Kong L2TP 1",
+        "is_l2tp": true,
+        "ip": "27.122.56.157",
+        "is_ikev2": false,
+        "country": "Hong Kong",
+        "abbr": "HK"
+      },
+      "Thailand 11 (No Ads)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th11-bull.bullfreedom.xyz",
+        "name": "Thailand 11 (No Ads)",
+        "is_l2tp": false,
+        "ip": "122.155.168.196",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Singapore 8": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "sg8-bull.bullfreedom.xyz",
+        "name": "Singapore 8",
+        "is_l2tp": false,
+        "ip": "38.54.16.115",
+        "is_ikev2": true,
+        "country": "Singapore",
+        "abbr": "SG"
+      },
+      "Singapore 9": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "sg9-bull.bullfreedom.xyz",
+        "name": "Singapore 9",
+        "is_l2tp": false,
+        "ip": "194.233.93.8",
+        "is_ikev2": true,
+        "country": "Singapore",
+        "abbr": "SG"
+      },
+      "USA 5 (Netflix)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "us5-bull.bullfreedom.xyz",
+        "name": "USA 5 (Netflix)",
+        "is_l2tp": false,
+        "ip": "208.115.243.38",
+        "is_ikev2": true,
+        "country": "USA",
+        "abbr": "US"
+      },
+      "Singapore 4": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "sg4-bull.bullfreedom.xyz",
+        "name": "Singapore 4",
+        "is_l2tp": false,
+        "ip": "150.107.152.196",
+        "is_ikev2": true,
+        "country": "Singapore",
+        "abbr": "SG"
+      },
+      "Singapore 5 (No Ads)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "sg5-bull.bullfreedom.xyz",
+        "name": "Singapore 5 (No Ads)",
+        "is_l2tp": false,
+        "ip": "167.71.192.157",
+        "is_ikev2": true,
+        "country": "Singapore",
+        "abbr": "SG"
+      },
+      "Singapore 7": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "sg7-bull.bullfreedom.xyz",
+        "name": "Singapore 7",
+        "is_l2tp": false,
+        "ip": "159.223.75.182",
+        "is_ikev2": true,
+        "country": "Singapore",
+        "abbr": "SG"
+      },
+      "DE2 for China": {
+        "is_open_vpn": false,
+        "user_type": "pay",
+        "open_vpn_ports": [],
+        "ikev2_domain": "de2-cn.xn--v3csa3bs8i.com",
+        "name": "DE2 for China",
+        "is_l2tp": false,
+        "ip": "78.111.86.31",
+        "is_ikev2": true,
+        "country": "China",
+        "abbr": "CN"
+      },
+      "Singapore 2": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "sg2-bull.bullfreedom.xyz",
+        "name": "Singapore 2",
+        "is_l2tp": false,
+        "ip": "91.192.81.168",
+        "is_ikev2": true,
+        "country": "Singapore",
+        "abbr": "SG"
+      },
+      "Singapore 3": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "sg3-bull.bullfreedom.xyz",
+        "name": "Singapore 3",
+        "is_l2tp": false,
+        "ip": "81.90.189.246",
+        "is_ikev2": true,
+        "country": "Singapore",
+        "abbr": "SG"
+      },
+      "Malaysia 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "my1-bull.bullfreedom.xyz",
+        "name": "Malaysia 1",
+        "is_l2tp": false,
+        "ip": "123.253.35.238",
+        "is_ikev2": true,
+        "country": "Malaysia",
+        "abbr": "MY"
+      },
+      "Argentina 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "ar1-bull.bullfreedom.xyz",
+        "name": "Argentina 1",
+        "is_l2tp": false,
+        "ip": "31.40.212.25",
+        "is_ikev2": true,
+        "country": "Argentina",
+        "abbr": "AR"
+      },
+      "Canada 3": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "ca3-bull.bullfreedom.xyz",
+        "name": "Canada 3",
+        "is_l2tp": false,
+        "ip": "68.71.45.149",
+        "is_ikev2": true,
+        "country": "Canada",
+        "abbr": "CA"
+      },
+      "Korea 3 (Netflix)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "kr3-bull.bullfreedom.xyz",
+        "name": "Korea 3 (Netflix)",
+        "is_l2tp": false,
+        "ip": "1.234.31.97",
+        "is_ikev2": true,
+        "country": "Korea",
+        "abbr": "KR"
+      },
+      "Thailand 36 (Streaming)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th36-bull.bullfreedom.xyz",
+        "name": "Thailand 36 (Streaming)",
+        "is_l2tp": false,
+        "ip": "116.204.183.153",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 24": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th24-bull.bullfreedom.xyz",
+        "name": "Thailand 24",
+        "is_l2tp": false,
+        "ip": "122.155.168.160",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Mexico 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "mx1-bull.bullfreedom.xyz",
+        "name": "Mexico 1",
+        "is_l2tp": false,
+        "ip": "216.238.71.173",
+        "is_ikev2": true,
+        "country": "Mexico",
+        "abbr": "MX"
+      },
+      "TH1 for China": {
+        "is_open_vpn": false,
+        "user_type": "pay",
+        "open_vpn_ports": [],
+        "ikev2_domain": "th1-cn.xn--v3csa3bs8i.com",
+        "name": "TH1 for China",
+        "is_l2tp": false,
+        "ip": "43.229.150.3",
+        "is_ikev2": true,
+        "country": "China",
+        "abbr": "CN"
+      },
+      "Thailand 1": {
+        "is_open_vpn": true,
+        "user_type": "trial",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th1-bull.bullfreedom.xyz",
+        "name": "Thailand 1",
+        "is_l2tp": false,
+        "ip": "122.155.168.18",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Philippines 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "ph1-bull.bullfreedom.xyz",
+        "name": "Philippines 1",
+        "is_l2tp": false,
+        "ip": "38.54.86.93",
+        "is_ikev2": true,
+        "country": "Philippines",
+        "abbr": "PH"
+      },
+      "USA 8": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "us8-bull.bullfreedom.xyz",
+        "name": "USA 8",
+        "is_l2tp": false,
+        "ip": "92.118.204.28",
+        "is_ikev2": true,
+        "country": "USA",
+        "abbr": "US"
+      },
+      "Singapore 10": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "sg10-bull.bullfreedom.xyz",
+        "name": "Singapore 10",
+        "is_l2tp": false,
+        "ip": "207.148.72.211",
+        "is_ikev2": true,
+        "country": "Singapore",
+        "abbr": "SG"
+      },
+      "USA 7": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "us7-bull.bullfreedom.xyz",
+        "name": "USA 7",
+        "is_l2tp": false,
+        "ip": "67.220.86.56",
+        "is_ikev2": true,
+        "country": "USA",
+        "abbr": "US"
+      },
+      "USA 4": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "us4.bullfreedom.xyz",
+        "name": "USA 4",
+        "is_l2tp": false,
+        "ip": "45.144.243.206",
+        "is_ikev2": true,
+        "country": "USA",
+        "abbr": "US"
+      },
+      "USA 3": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "us3-bull.bullfreedom.xyz",
+        "name": "USA 3",
+        "is_l2tp": false,
+        "ip": "95.174.71.137",
+        "is_ikev2": true,
+        "country": "USA",
+        "abbr": "US"
+      },
+      "USA 1": {
+        "is_open_vpn": true,
+        "user_type": "trial",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "us1-bull.bullfreedom.xyz",
+        "name": "USA 1",
+        "is_l2tp": false,
+        "ip": "149.102.225.76",
+        "is_ikev2": true,
+        "country": "USA",
+        "abbr": "US"
+      },
+      "Brazil 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "br1.bullfreedom.xyz",
+        "name": "Brazil 1",
+        "is_l2tp": false,
+        "ip": "5.188.238.47",
+        "is_ikev2": true,
+        "country": "Brazil",
+        "abbr": "BR"
+      },
+      "Thailand 5": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th5-bull.bullfreedom.xyz",
+        "name": "Thailand 5",
+        "is_l2tp": false,
+        "ip": "122.155.168.165",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 34 (Netflix)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th34-bull.bullfreedom.xyz",
+        "name": "Thailand 34 (Netflix)",
+        "is_l2tp": false,
+        "ip": "116.204.183.232",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Israel 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "il1-bull.bullfreedom.xyz",
+        "name": "Israel 1",
+        "is_l2tp": false,
+        "ip": "146.185.219.17",
+        "is_ikev2": true,
+        "country": "Israel",
+        "abbr": "IL"
+      },
+      "Japan 3 (No Ads)": {
+        "is_open_vpn": true,
+        "user_type": "trial",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "jp3-bull.bullfreedom.xyz",
+        "name": "Japan 3 (No Ads)",
+        "is_l2tp": false,
+        "ip": "45.124.138.31",
+        "is_ikev2": true,
+        "country": "Japan",
+        "abbr": "JP"
+      },
+      "Singapore L2TP 1": {
+        "is_open_vpn": false,
+        "user_type": "pay",
+        "open_vpn_ports": [],
+        "ikev2_domain": null,
+        "name": "Singapore L2TP 1",
+        "is_l2tp": true,
+        "ip": "157.230.38.117",
+        "is_ikev2": false,
+        "country": "Singapore",
+        "abbr": "SG"
+      },
+      "Thailand 6": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th6-bull.bullfreedom.xyz",
+        "name": "Thailand 6",
+        "is_l2tp": false,
+        "ip": "122.155.168.220",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "DE1 for China": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "de1-cn.xn--v3csa3bs8i.com",
+        "name": "DE1 for China",
+        "is_l2tp": false,
+        "ip": "78.111.86.105",
+        "is_ikev2": true,
+        "country": "China",
+        "abbr": "CN"
+      },
+      "Thailand 38 (Streaming)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th38-bull.bullfreedom.xyz",
+        "name": "Thailand 38 (Streaming)",
+        "is_l2tp": false,
+        "ip": "116.204.183.151",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "USA 6": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "us6-bull.bullfreedom.xyz",
+        "name": "USA 6",
+        "is_l2tp": false,
+        "ip": "45.164.23.166",
+        "is_ikev2": true,
+        "country": "USA",
+        "abbr": "US"
+      },
+      "Vietnam 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "vn1-bull.bullfreedom.xyz",
+        "name": "Vietnam 1",
+        "is_l2tp": false,
+        "ip": "103.92.29.143",
+        "is_ikev2": true,
+        "country": "Vietnam",
+        "abbr": "VN"
+      },
+      "Denmark 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "dk1-bull.bullfreedom.xyz",
+        "name": "Denmark 1",
+        "is_l2tp": false,
+        "ip": "38.180.72.108",
+        "is_ikev2": true,
+        "country": "Denmark",
+        "abbr": "DK"
+      },
+      "Thailand 23 (AIS Play)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th23-bull.bullfreedom.xyz",
+        "name": "Thailand 23 (AIS Play)",
+        "is_l2tp": false,
+        "ip": "203.159.93.148",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Saudi Arabia 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "sa1-bull.bullfreedom.xyz",
+        "name": "Saudi Arabia 1",
+        "is_l2tp": false,
+        "ip": "38.54.38.19",
+        "is_ikev2": true,
+        "country": "Saudi Arabia",
+        "abbr": "SA"
+      },
+      "Canada 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "ca1-bull.bullfreedom.xyz",
+        "name": "Canada 1",
+        "is_l2tp": false,
+        "ip": "198.44.140.98",
+        "is_ikev2": true,
+        "country": "Canada",
+        "abbr": "CA"
+      },
+      "Thailand 27": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th27-bull.bullfreedom.xyz",
+        "name": "Thailand 27",
+        "is_l2tp": false,
+        "ip": "103.212.181.152",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Pakistan 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "pk1-bull.bullfreedom.xyz",
+        "name": "Pakistan 1",
+        "is_l2tp": false,
+        "ip": "38.60.217.162",
+        "is_ikev2": true,
+        "country": "Pakistan",
+        "abbr": "PK"
+      },
+      "UK2 for China": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "uk2-cn.xn--v3csa3bs8i.com",
+        "name": "UK2 for China",
+        "is_l2tp": false,
+        "ip": "185.73.39.63",
+        "is_ikev2": true,
+        "country": "China",
+        "abbr": "CN"
+      },
+      "Thailand 3": {
+        "is_open_vpn": true,
+        "user_type": "trial",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th3-bull.bullfreedom.xyz",
+        "name": "Thailand 3",
+        "is_l2tp": false,
+        "ip": "122.155.168.248",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 30 (Streaming)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th30-bull.bullfreedom.xyz",
+        "name": "Thailand 30 (Streaming)",
+        "is_l2tp": false,
+        "ip": "116.206.127.81",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Morocco 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "ma1-bull.bullfreedom.xyz",
+        "name": "Morocco 1",
+        "is_l2tp": false,
+        "ip": "188.214.157.223",
+        "is_ikev2": true,
+        "country": "Morocco",
+        "abbr": "MA"
+      },
+      "South Africa 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "za1-bull.bullfreedom.xyz",
+        "name": "South Africa 1",
+        "is_l2tp": false,
+        "ip": "160.119.248.5",
+        "is_ikev2": true,
+        "country": "South Africa",
+        "abbr": "ZA"
+      },
+      "Singapore 1": {
+        "is_open_vpn": true,
+        "user_type": "trial",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "sg1-bull.bullfreedom.xyz",
+        "name": "Singapore 1",
+        "is_l2tp": false,
+        "ip": "23.106.127.183",
+        "is_ikev2": true,
+        "country": "Singapore",
+        "abbr": "SG"
+      },
+      "Netherlands 2": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "nl2-bull.bullfreedom.xyz",
+        "name": "Netherlands 2",
+        "is_l2tp": false,
+        "ip": "206.189.100.243",
+        "is_ikev2": true,
+        "country": "Netherlands",
+        "abbr": "NL"
+      },
+      "Italy 1": {
+        "is_open_vpn": true,
+        "user_type": "trial",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "it1-bull.bullfreedom.xyz",
+        "name": "Italy 1",
+        "is_l2tp": false,
+        "ip": "91.201.65.13",
+        "is_ikev2": true,
+        "country": "Italy",
+        "abbr": "IT"
+      },
+      "Myanmar 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "mm1-bull.bullfreedom.xyz",
+        "name": "Myanmar 1",
+        "is_l2tp": false,
+        "ip": "154.93.51.127",
+        "is_ikev2": true,
+        "country": "Myanmar",
+        "abbr": "MM"
+      },
+      "Thailand 4": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th4-bull.bullfreedom.xyz",
+        "name": "Thailand 4",
+        "is_l2tp": false,
+        "ip": "122.155.165.203",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Nigeria 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "ng1-bull.bullfreedom.xyz",
+        "name": "Nigeria 1",
+        "is_l2tp": false,
+        "ip": "176.97.192.74",
+        "is_ikev2": true,
+        "country": "Nigeria",
+        "abbr": "NG"
+      },
+      "Thailand 31 (Netflix)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th31-bull.bullfreedom.xyz",
+        "name": "Thailand 31 (Netflix)",
+        "is_l2tp": false,
+        "ip": "203.151.144.67",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 32": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th32-bull.bullfreedom.xyz",
+        "name": "Thailand 32",
+        "is_l2tp": false,
+        "ip": "203.154.83.41",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Ukraine 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "ua1-bull.bullfreedom.xyz",
+        "name": "Ukraine 1",
+        "is_l2tp": false,
+        "ip": "5.188.6.11",
+        "is_ikev2": true,
+        "country": "Ukraine",
+        "abbr": "UA"
+      },
+      "Thailand 48": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th48-bull.bullfreedom.xyz",
+        "name": "Thailand 48",
+        "is_l2tp": false,
+        "ip": "159.138.232.152",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 9": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th9-bull.bullfreedom.xyz",
+        "name": "Thailand 9",
+        "is_l2tp": false,
+        "ip": "122.155.168.102",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 45": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th45-bull.bullfreedom.xyz",
+        "name": "Thailand 45",
+        "is_l2tp": false,
+        "ip": "122.155.187.214",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 44": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th44-bull.bullfreedom.xyz",
+        "name": "Thailand 44",
+        "is_l2tp": false,
+        "ip": "122.155.187.213",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 46": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th46-bull.bullfreedom.xyz",
+        "name": "Thailand 46",
+        "is_l2tp": false,
+        "ip": "122.155.187.216",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 41": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th41-bull.bullfreedom.xyz",
+        "name": "Thailand 41",
+        "is_l2tp": false,
+        "ip": "116.204.183.152",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 43": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th43-bull.bullfreedom.xyz",
+        "name": "Thailand 43",
+        "is_l2tp": false,
+        "ip": "122.155.187.212",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 39 (Streaming)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th39-bull.bullfreedom.xyz",
+        "name": "Thailand 39 (Streaming)",
+        "is_l2tp": false,
+        "ip": "203.154.91.28",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "United Kingdom 3": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "uk3-bull.bullfreedom.xyz",
+        "name": "United Kingdom 3",
+        "is_l2tp": false,
+        "ip": "89.32.146.7",
+        "is_ikev2": true,
+        "country": "United Kingdom",
+        "abbr": "UK"
+      },
+      "Thailand 40 (Disney+)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th40-bull.bullfreedom.xyz",
+        "name": "Thailand 40 (Disney+)",
+        "is_l2tp": false,
+        "ip": "27.254.145.205",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "USA 12": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "us12-bull.bullfreedom.xyz",
+        "name": "USA 12",
+        "is_l2tp": false,
+        "ip": "23.237.73.115",
+        "is_ikev2": true,
+        "country": "USA",
+        "abbr": "US"
+      },
+      "Germany 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "de1-bull.bullfreedom.xyz",
+        "name": "Germany 1",
+        "is_l2tp": false,
+        "ip": "159.89.107.195",
+        "is_ikev2": true,
+        "country": "Germany",
+        "abbr": "DE"
+      },
+      "Thailand 68": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th68-bull.bullfreedom.xyz",
+        "name": "Thailand 68",
+        "is_l2tp": false,
+        "ip": "116.204.183.89",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Japan L2TP 1": {
+        "is_open_vpn": false,
+        "user_type": "pay",
+        "open_vpn_ports": [],
+        "ikev2_domain": null,
+        "name": "Japan L2TP 1",
+        "is_l2tp": true,
+        "ip": "167.179.83.85",
+        "is_ikev2": false,
+        "country": "Japan",
+        "abbr": "JP"
+      },
+      "USA 11": {
+        "is_open_vpn": true,
+        "user_type": "trial",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "us11-bull.bullfreedom.xyz",
+        "name": "USA 11",
+        "is_l2tp": false,
+        "ip": "74.50.96.68",
+        "is_ikev2": true,
+        "country": "USA",
+        "abbr": "US"
+      },
+      "USA 9 (Netflix)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "us9-bull.bullfreedom.xyz",
+        "name": "USA 9 (Netflix)",
+        "is_l2tp": false,
+        "ip": "195.123.240.155",
+        "is_ikev2": true,
+        "country": "USA",
+        "abbr": "US"
+      },
+      "Thailand 53": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th53-bull.bullfreedom.xyz",
+        "name": "Thailand 53",
+        "is_l2tp": false,
+        "ip": "43.239.251.140",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Hong Kong 4": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "hk4-bull.bullfreedom.xyz",
+        "name": "Hong Kong 4",
+        "is_l2tp": false,
+        "ip": "212.192.12.108",
+        "is_ikev2": true,
+        "country": "Hong Kong",
+        "abbr": "HK"
+      },
+      "Thailand 42 (Disney+)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th42-bull.bullfreedom.xyz",
+        "name": "Thailand 42 (Disney+)",
+        "is_l2tp": false,
+        "ip": "103.91.205.160",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Hong Kong 1": {
+        "is_open_vpn": true,
+        "user_type": "trial",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "hk1-bull.bullfreedom.xyz",
+        "name": "Hong Kong 1",
+        "is_l2tp": false,
+        "ip": "27.0.232.15",
+        "is_ikev2": true,
+        "country": "Hong Kong",
+        "abbr": "HK"
+      },
+      "Hong Kong 2": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "hk2-bull.bullfreedom.xyz",
+        "name": "Hong Kong 2",
+        "is_l2tp": false,
+        "ip": "223.223.219.16",
+        "is_ikev2": true,
+        "country": "Hong Kong",
+        "abbr": "HK"
+      },
+      "Hong Kong 3": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "hk3-bull.bullfreedom.xyz",
+        "name": "Hong Kong 3",
+        "is_l2tp": false,
+        "ip": "27.122.56.145",
+        "is_ikev2": true,
+        "country": "Hong Kong",
+        "abbr": "HK"
+      },
+      "Poland 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "pl1-bull.bullfreedom.xyz",
+        "name": "Poland 1",
+        "is_l2tp": false,
+        "ip": "217.30.10.28",
+        "is_ikev2": true,
+        "country": "Poland",
+        "abbr": "PL"
+      },
+      "Thailand 8 (No Ads)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th8-bull.bullfreedom.xyz",
+        "name": "Thailand 8 (No Ads)",
+        "is_l2tp": false,
+        "ip": "122.155.168.167",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Taiwan 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "tw1-bull.bullfreedom.xyz",
+        "name": "Taiwan 1",
+        "is_l2tp": false,
+        "ip": "2.58.242.201",
+        "is_ikev2": true,
+        "country": "Taiwan",
+        "abbr": "TW"
+      },
+      "Thailand 19": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th19-bull.bullfreedom.xyz",
+        "name": "Thailand 19",
+        "is_l2tp": false,
+        "ip": "103.230.120.138",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 18": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th18-bull.bullfreedom.xyz",
+        "name": "Thailand 18",
+        "is_l2tp": false,
+        "ip": "103.212.181.153",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 2": {
+        "is_open_vpn": true,
+        "user_type": "trial",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th2-bull.bullfreedom.xyz",
+        "name": "Thailand 2",
+        "is_l2tp": false,
+        "ip": "122.155.168.95",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 15": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th15-bull.bullfreedom.xyz",
+        "name": "Thailand 15",
+        "is_l2tp": false,
+        "ip": "103.212.181.154",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 14": {
+        "is_open_vpn": true,
+        "user_type": "trial",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th14-bull.bullfreedom.xyz",
+        "name": "Thailand 14",
+        "is_l2tp": false,
+        "ip": "122.155.168.164",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 17": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th17-bull.bullfreedom.xyz",
+        "name": "Thailand 17",
+        "is_l2tp": false,
+        "ip": "103.212.181.54",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Netherlands 1": {
+        "is_open_vpn": true,
+        "user_type": "trial",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "nl1-bull.bullfreedom.xyz",
+        "name": "Netherlands 1",
+        "is_l2tp": false,
+        "ip": "213.183.59.155",
+        "is_ikev2": true,
+        "country": "Netherlands",
+        "abbr": "NL"
+      },
+      "Thailand 10": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th10-bull.bullfreedom.xyz",
+        "name": "Thailand 10",
+        "is_l2tp": false,
+        "ip": "122.155.168.197",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 13": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th13-bull.bullfreedom.xyz",
+        "name": "Thailand 13",
+        "is_l2tp": false,
+        "ip": "122.155.168.163",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 12": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th12-bull.bullfreedom.xyz",
+        "name": "Thailand 12",
+        "is_l2tp": false,
+        "ip": "122.155.168.111",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Switzerland 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "ch1-bull.bullfreedom.xyz",
+        "name": "Switzerland 1",
+        "is_l2tp": false,
+        "ip": "94.247.42.218",
+        "is_ikev2": true,
+        "country": "Switzerland",
+        "abbr": "CH"
+      },
+      "Thailand 29": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th29-bull.bullfreedom.xyz",
+        "name": "Thailand 29",
+        "is_l2tp": false,
+        "ip": "43.229.150.37",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 28": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th28-bull.bullfreedom.xyz",
+        "name": "Thailand 28",
+        "is_l2tp": false,
+        "ip": "147.50.252.231",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 25": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th25-bull.bullfreedom.xyz",
+        "name": "Thailand 25",
+        "is_l2tp": false,
+        "ip": "122.155.168.58",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Singapore 11": {
+        "is_open_vpn": true,
+        "user_type": "trial",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "sg11-bull.bullfreedom.xyz",
+        "name": "Singapore 11",
+        "is_l2tp": false,
+        "ip": "206.189.35.93",
+        "is_ikev2": true,
+        "country": "Singapore",
+        "abbr": "SG"
+      },
+      "Thailand 33 (Netflix)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th33-bull.bullfreedom.xyz",
+        "name": "Thailand 33 (Netflix)",
+        "is_l2tp": false,
+        "ip": "103.82.248.14",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 26": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th26-bull.bullfreedom.xyz",
+        "name": "Thailand 26",
+        "is_l2tp": false,
+        "ip": "103.212.181.174",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 37 (Streaming)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th37-bull.bullfreedom.xyz",
+        "name": "Thailand 37 (Streaming)",
+        "is_l2tp": false,
+        "ip": "116.204.183.149",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Korea 2 (Netflix)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "kr2-bull.bullfreedom.xyz",
+        "name": "Korea 2 (Netflix)",
+        "is_l2tp": false,
+        "ip": "158.247.219.122",
+        "is_ikev2": true,
+        "country": "Korea",
+        "abbr": "KR"
+      },
+      "Japan 10": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "jp10-bull.bullfreedom.xyz",
+        "name": "Japan 10",
+        "is_l2tp": false,
+        "ip": "13.231.5.93",
+        "is_ikev2": true,
+        "country": "Japan",
+        "abbr": "JP"
+      },
+      "Singapore 6": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "sg6-bull.bullfreedom.xyz",
+        "name": "Singapore 6",
+        "is_l2tp": false,
+        "ip": "139.59.243.28",
+        "is_ikev2": true,
+        "country": "Singapore",
+        "abbr": "SG"
+      },
+      "Cambodia 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "kh1-bull.bullfreedom.xyz",
+        "name": "Cambodia 1",
+        "is_l2tp": false,
+        "ip": "38.54.93.18",
+        "is_ikev2": true,
+        "country": "Cambodia",
+        "abbr": "KH"
+      },
+      "RO2 for China": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "ro2-cn.xn--v3csa3bs8i.com",
+        "name": "RO2 for China",
+        "is_l2tp": false,
+        "ip": "185.125.109.134",
+        "is_ikev2": true,
+        "country": "China",
+        "abbr": "CN"
+      },
+      "Australia 3": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "au3-bull.bullfreedom.xyz",
+        "name": "Australia 3",
+        "is_l2tp": false,
+        "ip": "103.246.250.251",
+        "is_ikev2": true,
+        "country": "Australia",
+        "abbr": "AU"
+      },
+      "Singapore 12": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "sg12-bull.bullfreedom.xyz",
+        "name": "Singapore 12",
+        "is_l2tp": false,
+        "ip": "149.28.152.210",
+        "is_ikev2": true,
+        "country": "Singapore",
+        "abbr": "SG"
+      },
+      "Australia 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "au1-bull.bullfreedom.xyz",
+        "name": "Australia 1",
+        "is_l2tp": false,
+        "ip": "13.211.125.103",
+        "is_ikev2": true,
+        "country": "Australia",
+        "abbr": "AU"
+      },
+      "Spain 1": {
+        "is_open_vpn": true,
+        "user_type": "trial",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "sp1-bull.bullfreedom.xyz",
+        "name": "Spain 1",
+        "is_l2tp": false,
+        "ip": "92.38.171.39",
+        "is_ikev2": true,
+        "country": "Spain",
+        "abbr": "ES"
+      },
+      "Thailand 70": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th70-bull.bullfreedom.xyz",
+        "name": "Thailand 70",
+        "is_l2tp": false,
+        "ip": "116.204.183.100",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "US2 for China": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "us2-cn.xn--v3csa3bs8i.com",
+        "name": "US2 for China",
+        "is_l2tp": false,
+        "ip": "107.152.47.107",
+        "is_ikev2": true,
+        "country": "China",
+        "abbr": "CN"
+      },
+      "Japan 5 (Netflix)": {
+        "is_open_vpn": false,
+        "user_type": "pay",
+        "open_vpn_ports": [],
+        "ikev2_domain": "jp5-bull.bullfreedom.xyz",
+        "name": "Japan 5 (Netflix)",
+        "is_l2tp": false,
+        "ip": "103.106.228.171",
+        "is_ikev2": true,
+        "country": "Japan",
+        "abbr": "JP"
+      },
+      "United Kingdom 2": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "uk2-bull.bullfreedom.xyz",
+        "name": "United Kingdom 2",
+        "is_l2tp": false,
+        "ip": "185.105.34.9",
+        "is_ikev2": true,
+        "country": "United Kingdom",
+        "abbr": "UK"
+      },
+      "Taiwan 2": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "tw2-bull.bullfreedom.xyz",
+        "name": "Taiwan 2",
+        "is_l2tp": false,
+        "ip": "38.54.107.82",
+        "is_ikev2": true,
+        "country": "Taiwan",
+        "abbr": "TW"
+      },
+      "US1 for China": {
+        "is_open_vpn": false,
+        "user_type": "pay",
+        "open_vpn_ports": [],
+        "ikev2_domain": "us1-cn.xn--v3csa3bs8i.com",
+        "name": "US1 for China",
+        "is_l2tp": false,
+        "ip": "45.58.32.228",
+        "is_ikev2": true,
+        "country": "China",
+        "abbr": "CN"
+      },
+      "USA L2TP 1": {
+        "is_open_vpn": false,
+        "user_type": "pay",
+        "open_vpn_ports": [],
+        "ikev2_domain": null,
+        "name": "USA L2TP 1",
+        "is_l2tp": true,
+        "ip": "23.239.4.210",
+        "is_ikev2": false,
+        "country": "USA",
+        "abbr": "US"
+      },
+      "Chile 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "cl1-bull.bullfreedom.xyz",
+        "name": "Chile 1",
+        "is_l2tp": false,
+        "ip": "64.176.6.25",
+        "is_ikev2": true,
+        "country": "Chile",
+        "abbr": "CL"
+      },
+      "Japan 8": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "jp8-bull.bullfreedom.xyz",
+        "name": "Japan 8",
+        "is_l2tp": false,
+        "ip": "194.102.36.133",
+        "is_ikev2": true,
+        "country": "Japan",
+        "abbr": "JP"
+      },
+      "Japan 9": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "jp9-bull.bullfreedom.xyz",
+        "name": "Japan 9",
+        "is_l2tp": false,
+        "ip": "109.123.229.245",
+        "is_ikev2": true,
+        "country": "Japan",
+        "abbr": "JP"
+      },
+      "Japan 6": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "jp6-bull.bullfreedom.xyz",
+        "name": "Japan 6",
+        "is_l2tp": false,
+        "ip": "64.176.45.111",
+        "is_ikev2": true,
+        "country": "Japan",
+        "abbr": "JP"
+      },
+      "Japan 7": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "jp7-bull.bullfreedom.xyz",
+        "name": "Japan 7",
+        "is_l2tp": false,
+        "ip": "185.200.64.232",
+        "is_ikev2": true,
+        "country": "Japan",
+        "abbr": "JP"
+      },
+      "Japan 4": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "jp4.bullfreedom.xyz",
+        "name": "Japan 4",
+        "is_l2tp": false,
+        "ip": "133.130.100.79",
+        "is_ikev2": true,
+        "country": "Japan",
+        "abbr": "JP"
+      },
+      "Japan 2": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "jp2-bull.bullfreedom.xyz",
+        "name": "Japan 2",
+        "is_l2tp": false,
+        "ip": "103.75.118.46",
+        "is_ikev2": true,
+        "country": "Japan",
+        "abbr": "JP"
+      },
+      "India 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "in1-bull.bullfreedom.xyz",
+        "name": "India 1",
+        "is_l2tp": false,
+        "ip": "159.89.168.196",
+        "is_ikev2": true,
+        "country": "India",
+        "abbr": "IN"
+      },
+      "Japan 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "jp1-bull.bullfreedom.xyz",
+        "name": "Japan 1",
+        "is_l2tp": false,
+        "ip": "185.172.113.168",
+        "is_ikev2": true,
+        "country": "Japan",
+        "abbr": "JP"
+      },
+      "Belgium 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "be1-bull.bullfreedom.xyz",
+        "name": "Belgium 1",
+        "is_l2tp": false,
+        "ip": "98.142.254.62",
+        "is_ikev2": true,
+        "country": "Belgium",
+        "abbr": "BE"
+      },
+      "Korea 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "kr1-bull.bullfreedom.xyz",
+        "name": "Korea 1",
+        "is_l2tp": false,
+        "ip": "38.54.40.73",
+        "is_ikev2": true,
+        "country": "Korea",
+        "abbr": "KR"
+      },
+      "Korea 4": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "kr4-bull.bullfreedom.xyz",
+        "name": "Korea 4",
+        "is_l2tp": false,
+        "ip": "13.125.218.253",
+        "is_ikev2": true,
+        "country": "Korea",
+        "abbr": "KR"
+      },
+      "Korea 5": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "kr5-bull.bullfreedom.xyz",
+        "name": "Korea 5",
+        "is_l2tp": false,
+        "ip": "108.181.51.90",
+        "is_ikev2": true,
+        "country": "Korea",
+        "abbr": "KR"
+      },
+      "Russia 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "ru1-bull.bullfreedom.xyz",
+        "name": "Russia 1",
+        "is_l2tp": false,
+        "ip": "185.143.221.67",
+        "is_ikev2": true,
+        "country": "Russia",
+        "abbr": "RU"
+      },
+      "UK1 for China": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "uk1-cn.xn--v3csa3bs8i.com",
+        "name": "UK1 for China",
+        "is_l2tp": false,
+        "ip": "109.61.95.50",
+        "is_ikev2": true,
+        "country": "China",
+        "abbr": "CN"
+      },
+      "Thailand 21 (AIS Play)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th21-bull.bullfreedom.xyz",
+        "name": "Thailand 21 (AIS Play)",
+        "is_l2tp": false,
+        "ip": "212.80.213.166",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 20 (AIS Play)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th20-bull.bullfreedom.xyz",
+        "name": "Thailand 20 (AIS Play)",
+        "is_l2tp": false,
+        "ip": "203.154.91.109",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "USA 2 (No Ads)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "us2-bull.bullfreedom.xyz",
+        "name": "USA 2 (No Ads)",
+        "is_l2tp": false,
+        "ip": "45.86.230.5",
+        "is_ikev2": true,
+        "country": "USA",
+        "abbr": "US"
+      },
+      "Sweden 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "se1-bull.bullfreedom.xyz",
+        "name": "Sweden 1",
+        "is_l2tp": false,
+        "ip": "70.34.207.15",
+        "is_ikev2": true,
+        "country": "Sweden",
+        "abbr": "SE"
+      },
+      "Indonesia 2": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "id2-bull.bullfreedom.xyz",
+        "name": "Indonesia 2",
+        "is_l2tp": false,
+        "ip": "103.146.202.186",
+        "is_ikev2": true,
+        "country": "Indonesia",
+        "abbr": "ID"
+      },
+      "Indonesia 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "id1.bullfreedom.xyz",
+        "name": "Indonesia 1",
+        "is_l2tp": false,
+        "ip": "103.227.254.52",
+        "is_ikev2": true,
+        "country": "Indonesia",
+        "abbr": "ID"
+      },
+      "Thailand 22 (AIS Play)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th22-bull.bullfreedom.xyz",
+        "name": "Thailand 22 (AIS Play)",
+        "is_l2tp": false,
+        "ip": "43.229.132.162",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand L2TP 1": {
+        "is_open_vpn": false,
+        "user_type": "trial",
+        "open_vpn_ports": [],
+        "ikev2_domain": null,
+        "name": "Thailand L2TP 1",
+        "is_l2tp": true,
+        "ip": "122.155.168.219",
+        "is_ikev2": false,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "UAE 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "ae1-bull.bullfreedom.xyz",
+        "name": "UAE 1",
+        "is_l2tp": false,
+        "ip": "147.78.0.233",
+        "is_ikev2": true,
+        "country": "United Arab Emirates",
+        "abbr": "AE"
+      },
+      "Turkey 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "tr1-bull.bullfreedom.xyz",
+        "name": "Turkey 1",
+        "is_l2tp": false,
+        "ip": "5.188.168.196",
+        "is_ikev2": true,
+        "country": "Turkey",
+        "abbr": "TR"
+      },
+      "Thailand 59": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th59-bull.bullfreedom.xyz",
+        "name": "Thailand 59",
+        "is_l2tp": false,
+        "ip": "103.212.181.120",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 58": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th58-bull.bullfreedom.xyz",
+        "name": "Thailand 58",
+        "is_l2tp": false,
+        "ip": "103.212.181.118",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 55": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th55-1-bull.bullfreedom.xyz",
+        "name": "Thailand 55",
+        "is_l2tp": false,
+        "ip": "43.239.251.142",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 54": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th54-bull.bullfreedom.xyz",
+        "name": "Thailand 54",
+        "is_l2tp": false,
+        "ip": "43.239.251.141",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 57": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th57-bull.bullfreedom.xyz",
+        "name": "Thailand 57",
+        "is_l2tp": false,
+        "ip": "103.212.181.117",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 56": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th56-bull.bullfreedom.xyz",
+        "name": "Thailand 56",
+        "is_l2tp": false,
+        "ip": "110.78.215.89",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 51": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th51-bull.bullfreedom.xyz",
+        "name": "Thailand 51",
+        "is_l2tp": false,
+        "ip": "43.239.251.138",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 50": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th50-bull.bullfreedom.xyz",
+        "name": "Thailand 50",
+        "is_l2tp": false,
+        "ip": "43.239.251.137",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "China 2": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "cn2-bull.bullfreedom.xyz",
+        "name": "China 2",
+        "is_l2tp": false,
+        "ip": "182.92.119.34",
+        "is_ikev2": true,
+        "country": "China",
+        "abbr": "CN"
+      },
+      "Thailand 52": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th52-bull.bullfreedom.xyz",
+        "name": "Thailand 52",
+        "is_l2tp": false,
+        "ip": "43.239.251.139",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Hong Kong 5": {
+        "is_open_vpn": false,
+        "user_type": "pay",
+        "open_vpn_ports": [],
+        "ikev2_domain": "hk5-bull.bullfreedom.xyz",
+        "name": "Hong Kong 5",
+        "is_l2tp": false,
+        "ip": "114.29.237.108",
+        "is_ikev2": true,
+        "country": "Hong Kong",
+        "abbr": "HK"
+      },
+      "Canada 2": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "ca2-bull.bullfreedom.xyz",
+        "name": "Canada 2",
+        "is_l2tp": false,
+        "ip": "149.56.205.3",
+        "is_ikev2": true,
+        "country": "Canada",
+        "abbr": "CA"
+      },
+      "Thailand 69": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th69-bull.bullfreedom.xyz",
+        "name": "Thailand 69",
+        "is_l2tp": false,
+        "ip": "116.204.183.91",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "RU1 for China": {
+        "is_open_vpn": false,
+        "user_type": "pay",
+        "open_vpn_ports": [],
+        "ikev2_domain": "ru1-cn.xn--v3csa3bs8i.com",
+        "name": "RU1 for China",
+        "is_l2tp": false,
+        "ip": "185.22.152.181",
+        "is_ikev2": true,
+        "country": "China",
+        "abbr": "CN"
+      },
+      "TH2 for China": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th2-cn.xn--v3csa3bs8i.com",
+        "name": "TH2 for China",
+        "is_l2tp": false,
+        "ip": "45.154.25.77",
+        "is_ikev2": true,
+        "country": "China",
+        "abbr": "CN"
+      },
+      "Thailand 65": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th65-bull.bullfreedom.xyz",
+        "name": "Thailand 65",
+        "is_l2tp": false,
+        "ip": "116.204.183.81",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 64": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th64-bull.bullfreedom.xyz",
+        "name": "Thailand 64",
+        "is_l2tp": false,
+        "ip": "116.204.183.80",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 67": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th67-bull.bullfreedom.xyz",
+        "name": "Thailand 67",
+        "is_l2tp": false,
+        "ip": "116.204.183.88",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 66": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th66-bull.bullfreedom.xyz",
+        "name": "Thailand 66",
+        "is_l2tp": false,
+        "ip": "116.204.183.85",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 61": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th61-bull.bullfreedom.xyz",
+        "name": "Thailand 61",
+        "is_l2tp": false,
+        "ip": "103.86.50.13",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 60": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th60-bull.bullfreedom.xyz",
+        "name": "Thailand 60",
+        "is_l2tp": false,
+        "ip": "103.212.181.121",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 63": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th63-bull.bullfreedom.xyz",
+        "name": "Thailand 63",
+        "is_l2tp": false,
+        "ip": "116.204.183.78",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 62": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th62-bull.bullfreedom.xyz",
+        "name": "Thailand 62",
+        "is_l2tp": false,
+        "ip": "116.204.183.68",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "Thailand 49 (No Ads)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th49-bull.bullfreedom.xyz",
+        "name": "Thailand 49 (No Ads)",
+        "is_l2tp": false,
+        "ip": "43.239.251.136",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "United Kingdom 1": {
+        "is_open_vpn": true,
+        "user_type": "trial",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "uk1-bull.bullfreedom.xyz",
+        "name": "United Kingdom 1",
+        "is_l2tp": false,
+        "ip": "85.239.62.231",
+        "is_ikev2": true,
+        "country": "United Kingdom",
+        "abbr": "UK"
+      },
+      "Web - Download": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "sg-web1.bullfreedom.xyz",
+        "name": "Web - Download",
+        "is_l2tp": false,
+        "ip": "31.192.238.66",
+        "is_ikev2": true,
+        "country": "Singapore",
+        "abbr": "SG"
+      },
+      "Thailand 47 (No Ads)": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th47-bull.bullfreedom.xyz",
+        "name": "Thailand 47 (No Ads)",
+        "is_l2tp": false,
+        "ip": "122.155.187.217",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      },
+      "France 1": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "fr1-bull.bullfreedom.xyz",
+        "name": "France 1",
+        "is_l2tp": false,
+        "ip": "5.188.93.69",
+        "is_ikev2": true,
+        "country": "France",
+        "abbr": "FR"
+      },
+      "USA 10": {
+        "is_open_vpn": true,
+        "user_type": "pay",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "us10-bull.bullfreedom.xyz",
+        "name": "USA 10",
+        "is_l2tp": false,
+        "ip": "24.199.100.30",
+        "is_ikev2": true,
+        "country": "USA",
+        "abbr": "US"
+      },
+      "Thailand 16  (Netflix)": {
+        "is_open_vpn": true,
+        "user_type": "trial",
+        "open_vpn_ports": {
+          "tcp": [
+            "443"
+          ],
+          "udp": [
+            "1194",
+            "53"
+          ]
+        },
+        "ikev2_domain": "th16-bull.bullfreedom.xyz",
+        "name": "Thailand 16  (Netflix)",
+        "is_l2tp": false,
+        "ip": "103.212.181.56",
+        "is_ikev2": true,
+        "country": "Thailand",
+        "abbr": "TH"
+      }
+    },
+    "proxy": {
+      "Proxy Thailand 1": {
+        "pass": "bullbull**",
+        "proxy_port": "9925",
+        "user": "bullvpn",
+        "ip_address": "122.155.168.67"
+      },
+      "Proxy Hong Kong 1": {
+        "pass": "bullbull**",
+        "proxy_port": "9896",
+        "user": "bullvpn",
+        "ip_address": "103.68.61.178"
+      },
+      "Proxy Thailand 2": {
+        "pass": "bullbull**",
+        "proxy_port": "8236",
+        "user": "bullvpn",
+        "ip_address": "103.212.181.144"
+      },
+      "Proxy USA 4": {
+        "pass": "bullbull**",
+        "proxy_port": "8216",
+        "user": "bullvpn",
+        "ip_address": "154.47.17.182"
+      },
+      "Proxy Russia 1": {
+        "pass": "bullbull**",
+        "proxy_port": "8081",
+        "user": "bullvpn",
+        "ip_address": "185.143.221.67"
+      },
+      "Proxy Japan 1": {
+        "pass": "Persec2022",
+        "proxy_port": "6642",
+        "user": "bullvpn",
+        "ip_address": "64.176.45.83"
+      },
+      "Proxy Japan 2": {
+        "pass": "Persec2022",
+        "proxy_port": "9454",
+        "user": "bullvpn",
+        "ip_address": "64.176.47.199"
+      },
+      "Proxy Germany 1": {
+        "pass": "Persec2022",
+        "proxy_port": "10945",
+        "user": "bullvpn",
+        "ip_address": "65.109.167.41"
+      },
+      "Proxy China 2": {
+        "pass": "bullbull**",
+        "proxy_port": "14579",
+        "user": "bullvpn",
+        "ip_address": "182.92.119.34"
+      },
+      "Proxy Japan 3": {
+        "pass": "bullbull**",
+        "proxy_port": "9514",
+        "user": "bullvpn",
+        "ip_address": "54.199.95.40"
+      },
+      "Proxy Hong Kong 2": {
+        "pass": "bullbull**",
+        "proxy_port": "9021",
+        "user": "bullvpn",
+        "ip_address": "8.218.249.107"
+      },
+      "Proxy USA 1": {
+        "pass": "Persec2022",
+        "proxy_port": "8245",
+        "user": "bullvpn",
+        "ip_address": "146.190.146.235"
+      },
+      "Proxy USA 2": {
+        "pass": "bullbull**",
+        "proxy_port": "9545",
+        "user": "bullvpn",
+        "ip_address": "5.78.81.133"
+      },
+      "Proxy USA 3": {
+        "pass": "bullbull**",
+        "proxy_port": "11425",
+        "user": "bullvpn",
+        "ip_address": "38.75.136.5"
+      },
+      "Proxy Thailand 3": {
+        "pass": "bullbull**",
+        "proxy_port": "8081",
+        "user": "bullvpn",
+        "ip_address": "122.155.168.162"
+      },
+      "Proxy Singapore 1": {
+        "pass": "bullbull**",
+        "proxy_port": "11254",
+        "user": "bullvpn",
+        "ip_address": "159.65.141.67"
+      }
+    },
+    "clientConfig": {
+      "is_force": 0,
+      "note": "30/03/2022 V.6.5",
+      "bit": {},
+      "updated": "2023-11-12 18:58:46",
+      "is_session_kill": 0,
+      "update_url": "https://www.bullvpn.com/files/client/update_bullvpn_client_6.5.zip",
+      "session_time": 600,
+      "version": "6.5"
+    },
+    "privateServerConfigList": {},
+    "serverConfigList": {
+      "45.164.23.166": "default",
+      "64.176.45.111": "default",
+      "13.125.218.253": "default",
+      "122.155.168.248": "default",
+      "103.212.181.54": "default",
+      "103.91.205.160": "default",
+      "13.211.125.103": "default",
+      "122.155.168.111": "default",
+      "123.253.35.238": "default",
+      "116.206.127.81": "default",
+      "110.78.215.89": "default",
+      "198.44.140.98": "default",
+      "38.54.16.115": "default",
+      "43.239.251.138": "default",
+      "188.241.118.77": "default",
+      "116.204.183.148": "default",
+      "116.204.183.149": "default",
+      "62.12.114.68": "default",
+      "103.212.181.153": "default",
+      "103.212.181.152": "default",
+      "70.34.207.15": "default",
+      "103.212.181.154": "default",
+      "122.155.168.58": "default",
+      "167.71.192.157": "default",
+      "185.73.39.63": "default",
+      "122.155.168.18": "default",
+      "212.80.213.166": "default",
+      "92.118.204.28": "default",
+      "103.230.120.138": "default",
+      "13.231.5.93": "default",
+      "195.123.240.155": "default",
+      "31.40.212.25": "default",
+      "5.188.238.47": "default",
+      "2.58.242.201": "default",
+      "149.102.225.76": "default",
+      "167.179.83.85": "default",
+      "185.105.34.9": "default",
+      "122.155.168.95": "default",
+      "188.214.157.223": "default",
+      "154.93.51.127": "default",
+      "45.58.32.228": "default",
+      "116.204.183.91": "default",
+      "116.204.183.81": "default",
+      "206.189.35.93": "default",
+      "216.238.71.173": "default",
+      "122.155.165.203": "default",
+      "1.234.31.97": "default",
+      "139.59.243.28": "default",
+      "122.155.168.165": "default",
+      "122.155.168.164": "default",
+      "122.155.168.167": "default",
+      "116.204.183.100": "default",
+      "108.181.51.90": "default",
+      "91.192.81.168": "default",
+      "122.155.168.163": "default",
+      "158.247.219.122": "default",
+      "38.60.217.162": "default",
+      "122.155.187.213": "default",
+      "122.155.187.212": "default",
+      "43.239.251.137": "default",
+      "122.155.187.214": "default",
+      "122.155.187.217": "default",
+      "122.155.187.216": "default",
+      "185.22.152.181": "default",
+      "23.106.127.183": "default",
+      "45.124.138.31": "default",
+      "194.102.36.133": "default",
+      "185.143.221.67": "default",
+      "116.204.183.151": "default",
+      "116.204.183.152": "default",
+      "116.204.183.153": "default",
+      "98.142.254.62": "default",
+      "147.50.252.231": "default",
+      "103.227.254.52": "default",
+      "207.148.72.211": "default",
+      "159.89.168.196": "default",
+      "43.239.251.141": "default",
+      "133.130.100.79": "default",
+      "85.239.62.231": "default",
+      "182.92.119.34": "default",
+      "149.56.205.3": "default",
+      "103.86.50.13": "default",
+      "116.204.183.232": "default",
+      "203.154.83.41": "default",
+      "43.229.132.162": "default",
+      "78.111.86.105": "default",
+      "122.155.168.197": "default",
+      "122.155.168.196": "default",
+      "103.92.29.143": "default",
+      "149.28.152.210": "default",
+      "43.239.251.139": "default",
+      "114.29.237.108": "default",
+      "38.54.86.93": "default",
+      "116.204.183.85": "default",
+      "206.189.100.243": "default",
+      "94.247.42.218": "default",
+      "31.192.238.66": "default",
+      "43.239.251.136": "default",
+      "23.239.4.210": "default",
+      "103.146.202.186": "default",
+      "212.192.12.108": "default",
+      "203.151.144.67": "default",
+      "116.204.183.88": "default",
+      "91.201.65.13": "default",
+      "194.233.93.8": "default",
+      "92.38.171.39": "default",
+      "38.54.38.19": "default",
+      "116.204.183.78": "default",
+      "116.204.183.68": "default",
+      "176.97.192.74": "default",
+      "146.185.219.17": "default",
+      "38.54.93.18": "default",
+      "159.89.107.195": "default",
+      "5.188.93.69": "default",
+      "43.239.251.140": "default",
+      "103.212.181.174": "default",
+      "27.122.56.145": "default",
+      "103.106.228.171": "default",
+      "109.61.95.50": "default",
+      "78.111.86.31": "default",
+      "116.204.183.80": "default",
+      "150.107.152.196": "default",
+      "103.75.118.46": "default",
+      "103.246.250.251": "default",
+      "81.90.189.246": "default",
+      "185.200.64.232": "default",
+      "5.188.168.196": "default",
+      "109.123.229.245": "default",
+      "38.54.107.82": "default",
+      "89.32.146.7": "default",
+      "45.86.230.5": "default",
+      "147.78.0.233": "default",
+      "159.223.75.182": "default",
+      "217.30.10.28": "default",
+      "45.154.25.77": "default",
+      "38.180.72.108": "default",
+      "103.212.181.121": "default",
+      "103.212.181.120": "default",
+      "203.154.91.109": "default",
+      "160.119.248.5": "default",
+      "103.212.181.118": "default",
+      "116.204.183.89": "default",
+      "203.154.91.28": "default",
+      "38.54.40.73": "default",
+      "27.0.232.15": "default",
+      "107.152.47.107": "default",
+      "5.182.39.121": "default",
+      "43.239.251.142": "default",
+      "122.155.168.102": "default",
+      "95.174.71.137": "default",
+      "103.212.181.56": "default",
+      "103.212.181.117": "default",
+      "203.159.93.148": "default",
+      "213.183.59.155": "configv2",
+      "43.229.150.37": "default",
+      "68.71.45.149": "default",
+      "45.144.243.206": "default",
+      "27.122.56.157": "default",
+      "27.254.145.205": "default",
+      "159.138.232.152": "default",
+      "23.237.73.115": "default",
+      "185.125.109.134": "default",
+      "223.223.219.16": "default",
+      "103.82.248.14": "default",
+      "122.155.168.220": "default",
+      "24.199.100.30": "default",
+      "157.230.38.117": "default",
+      "64.176.6.25": "default",
+      "208.115.243.38": "default",
+      "5.188.6.11": "default",
+      "67.220.86.56": "default",
+      "43.229.150.3": "default",
+      "185.172.113.168": "default",
+      "74.50.96.68": "default",
+      "122.155.168.219": "default",
+      "122.155.168.160": "default"
+    },
+    "premium": true,
+    "configList": [
+      {
+        "config": "client\r\ndev tun\r\nnobind\r\ncomp-lzo\r\nreneg-sec 0\r\nauth-user-pass\r\nscript-security 3\r\ncipher AES-256-CBC\r\nauth-retry interact\r\nmute-replay-warnings\r\nresolv-retry infinite\r\nremote-cert-tls server\r\n#register-dns\r\ntls-timeout 15\r\nhand-window 15\r\ntun-mtu 1500\r\ntun-mtu-extra 32\r\n#mssfix 1450\r\nping-restart 60\r\n\r\n<ca>\r\n-----BEGIN CERTIFICATE-----\r\nMIIDKDCCAhCgAwIBAgIJAJCPmRqQ3Z4YMA0GCSqGSIb3DQEBCwUAMBIxEDAOBgNV\r\nBAMTB2J1bGx2cG4wHhcNMTQwNjI2MTkyNDUyWhcNMjQwNjIzMTkyNDUyWjASMRAw\r\nDgYDVQQDEwdidWxsdnBuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA\r\n4HwNGo+cTDyFiCtHLbIvWkLirK2E5L5td7sRd1Lhz0Are4Dkmd5/mOZdCejG+sHU\r\nKyh8dc23+AcK3Imc7DoKxb8llZ186JL3rmG32Tqs+JtG226gQ5a/im3HHuDPCLkM\r\n2C7CGCU6BRQInOMEG2SlHWVzLva6zicJkren31sO30Tbha/7jQI0GVq/avfFM6sg\r\nLttjbZXkHQ2MiOzY/7N4iEThYcA9HmeJ3cgxPCkrDbiVjN1Zz0N6C9684BxSkLeI\r\nTVdEtahWf3Uo70TmS7Gy5GpDpG6ZYr8ExSIpcjHsXFSnxfcCxJlRSsLTJWXlN05N\r\nRIrsHGxTlDlaqIk2z1WAXQIDAQABo4GAMH4wHQYDVR0OBBYEFKoYLJIqTNdyz5yw\r\nM6EGYUVLm5rHMEIGA1UdIwQ7MDmAFKoYLJIqTNdyz5ywM6EGYUVLm5rHoRakFDAS\r\nMRAwDgYDVQQDEwdidWxsdnBuggkAkI+ZGpDdnhgwDAYDVR0TBAUwAwEB/zALBgNV\r\nHQ8EBAMCAQYwDQYJKoZIhvcNAQELBQADggEBAMO0Fa0M8kk//LclgOz/tr/J2C58\r\nOq/ocyWMVe2zoljAKSGYA/TSMK2jISO8H77wXJ1IKBXDugPbWGt3ZkPyBagFzdNY\r\nJ8Zq03iRjExg22/XAbMkyVKBay/MYMej/VP4UYpPd1ZdWuVs9j3Jhi5rJuiYWj5B\r\nH1/TCbdXhmc+eSpgHpGFuByOHnFBhHVFTrpXCZCySwBk9NqWLqVtpYbgFHaJZtQC\r\npSdJaNWSeeM96+1mcAQbUwgqRnz2IddLs9zo7wOUON4c/4wtdCWquzFf8qqoTemm\r\nEbcprTdiNozw5PV3Fa6r2L/oTYnwE2T5LNzU8JuuzrlIz3U1vNRrJiiMHws=\r\n-----END CERTIFICATE-----\r\n</ca>",
+        "key": "default"
+      },
+      {
+        "config": "client\r\ndev tun\r\nauth-user-pass\r\nnobind\r\ncomp-lzo\r\nreneg-sec 0\r\npersist-key\r\npersist-tun\r\ncipher AES-256-CBC\r\nauth-retry interact\r\nmute-replay-warnings\r\nresolv-retry infinite\r\nremote-cert-tls server\r\ntls-timeout 15\r\nhand-window 15\r\ntun-mtu 1500\r\ntun-mtu-extra 32\r\nping-restart 60\r\nblock-outside-dns\r\n<ca>\r\n-----BEGIN CERTIFICATE-----\r\nMIIDSzCCAjOgAwIBAgIUJoJQluhe7leqitA8gR+N1kXbVx4wDQYJKoZIhvcNAQEL\r\nBQAwFjEUMBIGA1UEAwwLRWFzeS1SU0EgQ0EwHhcNMjMwMTE3MDU1MDM3WhcNMzMw\r\nMTE0MDU1MDM3WjAWMRQwEgYDVQQDDAtFYXN5LVJTQSBDQTCCASIwDQYJKoZIhvcN\r\nAQEBBQADggEPADCCAQoCggEBAMZ4F6C5rKbTdCq0q4EUL1ItfdD0Hzs74zEVtAin\r\nXH0FgJ1VFoVCBF6SgJmYAELDaRjGzeyuB6FzK5FZW6KLKpi9bXltnEqJJkWrUrJS\r\nhVpNjKiqLb4X6ywuj4Si8VnT4EuSzVVGnBvAHVng/QpPjHry6mFeGkbyrFmg7pZL\r\nmr4hSl1sf3jbKRFZaIH8jTEO9NLrBK4BuV3emfWTp4S1zbx602ccRD3EMLSH7jRq\r\ncQFHvApKt3Y9kdDfC8NF7MQ6Vkj5sKdQ7aU6GCFXv8+K4rHsFfl4/V+ReYG2kxvC\r\nckp/FvagaYlxxlYNFc/bavCy6iLKhiq3ea+zd3sg0PY8KU8CAwEAAaOBkDCBjTAM\r\nBgNVHRMEBTADAQH/MB0GA1UdDgQWBBQRtyEm3vRuSjZOuEQOnrrbrl3AHzBRBgNV\r\nHSMESjBIgBQRtyEm3vRuSjZOuEQOnrrbrl3AH6EapBgwFjEUMBIGA1UEAwwLRWFz\r\neS1SU0EgQ0GCFCaCUJboXu5XqorQPIEfjdZF21ceMAsGA1UdDwQEAwIBBjANBgkq\r\nhkiG9w0BAQsFAAOCAQEACxL2adKUf21BVnpPr/9ky2ejM6DKl1pqg2iYSFQx54DM\r\n0Bd0NVX2SUhOfGVLGynJmxH7q6gXcli7Fk+NEoAavPdf5baJN7RrAH2AU5FnNUzO\r\nefw4fRzJ0BwDwHAatXUH3bbBbG01zQGbYmz1DOs/MQifjiZnOJViK3O9FrpWpFQI\r\nLDU74Icf1/VWBptpx6MwjmS8XuxJOK4PeJN7xhAIZGuiL+7T2ylbuPJtXrAs8YAv\r\nEfEiGt2TVCT1v32XK57p2e69Gd26SSgCFTVoKTN3tqAjUvUNYl+gUL+raaJxJcR+\r\nrvxIzLyJVnu3oPme98T/9QNrMEKZbObJFFGe9CKkuQ==\r\n-----END CERTIFICATE-----\r\n</ca>",
+        "key": "configv2"
+      }
+    ],
+    "session": false,
+    "domain": [
+      {
+        "name": "Mode 1",
+        "url": "https://client-api.blackbull.news"
+      },
+      {
+        "name": "Mode 2",
+        "url": "https://client-api.narutoonline.info"
+      },
+      {
+        "name": "Mode 3",
+        "url": "https://client-api.bullfreedom.xyz"
+      },
+      {
+        "name": "mode 4",
+        "url": "https://client-api-cn.bullfreedom.xyz"
+      }
+    ],
+    "private": [],
+    "region": [
+      {
+        "country": [
+          "AE",
+          "CN",
+          "HK",
+          "ID",
+          "IL",
+          "IN",
+          "JP",
+          "KH",
+          "KR",
+          "MM",
+          "MY",
+          "PH",
+          "PK",
+          "SA",
+          "SG",
+          "TH",
+          "TR",
+          "TW",
+          "VN"
+        ],
+        "name": "Asia",
+        "order": 2
+      },
+      {
+        "country": [
+          "BE",
+          "CH",
+          "DE",
+          "DK",
+          "ES",
+          "FR",
+          "IT",
+          "NL",
+          "PL",
+          "PT",
+          "RU",
+          "SE",
+          "UA",
+          "UK"
+        ],
+        "name": "Europe",
+        "order": 3
+      },
+      {
+        "country": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "name": "North America",
+        "order": 4
+      },
+      {
+        "country": [
+          "AU"
+        ],
+        "name": "Oceania",
+        "order": 5
+      },
+      {
+        "country": [
+          "AR",
+          "BR",
+          "CL"
+        ],
+        "name": "South America",
+        "order": 6
+      }
+    ]
+  }
